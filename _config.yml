@@ -12,11 +12,11 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Cenchao Wang"
 title_separator          : "-"
 name                     : &name "Cenchao Wang"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://cenchao.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+description              : &description "incoming PhD student in Environmental Engineering"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://wcenchao.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "cenchaowang/cenchaowang.github.io"
+repository               : "wcenchao/wcenchao.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Cenchao Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I am an incoming PhD student in Environmental Engineering at Texas A&M University with research interests in air quality, environmental modeling, and public health.My background combines experience in data analysis and modeling with applications in complex systems, which has shaped my interest in understanding environmental processes through quantitative approaches.I am particularly interested in developing data-driven methods to study how air pollutants evolve in urban environments and to support evidence-based environmental decision-making."
   location         : "Guangzhou"
   employer         : "Red Brick University"
   uri              : # URL
@@ -35,12 +35,12 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=b0ZYkHAAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :  # URL
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  linkedin           : "https://www.linkedin.com/in/cenchao-wang-1a3436289"
   researchgate     : # URL
   scopus           : # URL
 
