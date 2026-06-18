@@ -6,7 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! I am Cenchao Wang, an incoming Ph.D. student in Environmental Engineering at Texas A&M University. I will be working with [Dr. Yuzhou Wang](https://www.yuzhouwang.net/) in the Air Intelligence Research Lab (AIR Lab). :contentReference[oaicite:0]{index=0}
+<div style="text-align: justify;">
+Hello! I am Cenchao Wang, an incoming Ph.D. student in Environmental Engineering at Texas A&M University. I will be working with [Dr. Yuzhou Wang](https://www.yuzhouwang.net/) in the Air Intelligence Research Lab (AIR Lab). 
 
 My research interests include:
 
