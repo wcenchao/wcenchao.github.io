@@ -3,7 +3,6 @@ title: "Comparative Environmental Analysis of 2-MIB Removal via Powdered Activat
 collection: publications
 category: manuscripts
 permalink: /publication/2025-acs-est-water
-excerpt: 'This paper is about fixing template issue #693.'
 date: 2025-01-02
 venue: 'ACS ES&T Waters'
 paperurl: 'https://pubs.acs.org/doi/abs/10.1021/acsestwater.4c00815'
