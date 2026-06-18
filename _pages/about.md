@@ -6,8 +6,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an incoming PhD student in Environmental Engineering at Texas A&M University with research interests in air quality, environmental modeling, and public health.
-My background combines experience in data analysis and modeling with applications in complex systems, which has shaped my interest in understanding environmental processes through quantitative approaches.
-I am particularly interested in developing data-driven methods to study how air pollutants evolve in urban environments and to support evidence-based environmental decision-making.
+Hello! I am Cenchao Wang, an incoming Ph.D. student in Environmental Engineering at Texas A&M University. I will be working with [Dr. Yuzhou Wang](https://www.yuzhouwang.net/) in the Air Intelligence Research Lab (AIR Lab). :contentReference[oaicite:0]{index=0}
+
+My research interests include:
+
+- Air Quality Modeling
+- Environmental Data Science
+- Energy and Climate Systems
+
+Previously, I obtained dual master's degrees from Georgia Institute of Technology and Tianjin University, and a bachelor's degree in Environmental Engineering from South China University of Technology.
+
+My current goal is to integrate environmental modeling, atmospheric science, and data-driven methods to support sustainable decision-making in environmental systems.
+
+Outside of research, I enjoy hiking and trekking. I believe nature has a unique ability to restore clarity, curiosity, and perspective — nature heals everything.
 
 
