@@ -6,6 +6,6 @@ permalink: /publication/2025-acs-est-water
 date: 2025/1/2
 venue: 'ACS ES&T Water'
 paperurl: 'https://pubs.acs.org/doi/abs/10.1021/acsestwater.4c00815'
-citation (APA): 'Wang, C., Dong, C., Gao, J., & Zhou, J. (2025). Comparative Environmental Analysis of 2-MIB Removal via Powdered Activated Carbon Adsorption and Enhanced Biofiltration from a Life Cycle Perspective. ACS ES&T Water, 5(2), 749-760.'
+citation (APA): 'Wang, C., Dong, C., Gao, J., & Zhou, J. (2025). Comparative Environmental Analysis of 2-MIB Removal via Powdered Activated Carbon Adsorption and Enhanced Biofiltration from a Life Cycle Perspective. ACS ES&T Water, 5(2), 749-760. &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
