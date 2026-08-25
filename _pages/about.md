@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Cenchao Wang, an incoming Ph.D. student in Environmental Engineering at Texas A&M University. I will be working with [Dr. Yuzhou Wang](https://www.yuzhouwang.net/) in the Air Intelligence Research Lab (AIR Lab). 
+Hello! I am Cenchao Wang, a Ph.D. student in Environmental Engineering at Texas A&M University. I will be working with [Dr. Yuzhou Wang](https://www.yuzhouwang.net/) in the Air Intelligence Research Lab (AIR Lab). 
 
 My research interests include:
 
 - Air Quality Modeling
-- Environmental Data Science
+- Air Pollution Exposure and Public Health
 - Energy and Climate Systems
 
 Previously, I obtained dual master's degrees from Georgia Institute of Technology and Tianjin University, and a bachelor's degree in Environmental Engineering from South China University of Technology.
